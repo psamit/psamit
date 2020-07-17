@@ -1,4 +1,4 @@
-![JavaScript](/javascript.jpg)
+![JavaScript](psamit/javascript.jpg)
 
 ### Hi there 👋
 
