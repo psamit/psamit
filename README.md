@@ -1,4 +1,4 @@
-![JavaScript](psamit/javascript.jpg)
+![JavaScript](https://github.com/psamit/psamit/blob/master/javascript.jpg)
 
 ### Hi there 👋
 
