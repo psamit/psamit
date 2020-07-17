@@ -1,3 +1,5 @@
+![JavaScript](/javascript.jpg)
+
 ### Hi there 👋
 
 
