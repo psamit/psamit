@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React
-- 📫 How to reach me: sumanamit27@gmail.com
-
+- 🌱 I’m currently learning React, Redux
+- Ask me about: JavaScript, Angular, NodeJs, Git, CI/CD
